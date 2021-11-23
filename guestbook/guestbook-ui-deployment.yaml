@@ -17,4 +17,4 @@ spec:
       - image: shubhamsingh987/test:v4
         name: test
         ports:
-        - containerPort: 81
+        - containerPort: 8080
